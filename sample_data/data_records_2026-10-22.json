@@ -1,0 +1,4324 @@
+{
+  "records": [
+    {
+      "title": "wl-20261022-0000",
+      "value": 50.0,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:00:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0000",
+      "value": 25.5,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:00:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0001",
+      "value": 50.25,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:01:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0001",
+      "value": 25.53,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:01:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0002",
+      "value": 50.5,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:02:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0002",
+      "value": 25.56,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:02:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0003",
+      "value": 50.73,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:03:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0003",
+      "value": 25.58,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:03:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0004",
+      "value": 50.96,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:04:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0004",
+      "value": 25.59,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:04:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0005",
+      "value": 51.16,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:05:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0005",
+      "value": 25.6,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:05:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0006",
+      "value": 51.35,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:06:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0006",
+      "value": 25.6,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:06:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0007",
+      "value": 51.51,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:07:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0007",
+      "value": 25.59,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:07:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0008",
+      "value": 51.65,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:08:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0008",
+      "value": 25.58,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:08:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0009",
+      "value": 51.76,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:09:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0009",
+      "value": 25.57,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:09:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0010",
+      "value": 51.85,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:10:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0010",
+      "value": 25.55,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:10:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0011",
+      "value": 51.91,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:11:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0011",
+      "value": 25.53,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:11:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0012",
+      "value": 51.94,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:12:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0012",
+      "value": 25.51,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:12:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0013",
+      "value": 51.95,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:13:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0013",
+      "value": 25.48,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:13:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0014",
+      "value": 51.94,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:14:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0014",
+      "value": 25.46,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:14:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0015",
+      "value": 51.9,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:15:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0015",
+      "value": 25.43,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:15:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0016",
+      "value": 51.85,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:16:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0016",
+      "value": 25.41,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:16:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0017",
+      "value": 51.79,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:17:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0017",
+      "value": 25.39,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:17:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0018",
+      "value": 51.72,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:18:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0018",
+      "value": 25.37,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:18:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0019",
+      "value": 51.65,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:19:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0019",
+      "value": 25.35,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:19:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0020",
+      "value": 51.57,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:20:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0020",
+      "value": 25.34,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:20:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0021",
+      "value": 51.5,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:21:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0021",
+      "value": 25.33,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:21:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0022",
+      "value": 51.44,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:22:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0022",
+      "value": 25.33,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:22:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0023",
+      "value": 51.39,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:23:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0023",
+      "value": 25.34,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:23:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0024",
+      "value": 51.36,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:24:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0024",
+      "value": 25.34,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:24:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0025",
+      "value": 51.34,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:25:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0025",
+      "value": 25.36,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:25:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0026",
+      "value": 51.35,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:26:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0026",
+      "value": 25.38,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:26:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0027",
+      "value": 51.37,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:27:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0027",
+      "value": 25.41,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:27:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0028",
+      "value": 51.42,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:28:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0028",
+      "value": 25.44,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:28:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0029",
+      "value": 51.49,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:29:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0029",
+      "value": 25.49,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:29:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0030",
+      "value": 51.59,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:30:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0030",
+      "value": 25.53,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:30:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0031",
+      "value": 51.71,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:31:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0031",
+      "value": 25.59,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:31:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0032",
+      "value": 51.84,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:32:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0032",
+      "value": 25.64,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:32:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0033",
+      "value": 51.99,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:33:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0033",
+      "value": 25.71,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:33:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0034",
+      "value": 52.16,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:34:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0034",
+      "value": 25.77,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:34:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0035",
+      "value": 52.33,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:35:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0035",
+      "value": 25.84,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:35:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0036",
+      "value": 52.51,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:36:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0036",
+      "value": 25.92,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:36:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0037",
+      "value": 52.69,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:37:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0037",
+      "value": 25.99,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:37:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0038",
+      "value": 52.87,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:38:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0038",
+      "value": 26.07,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:38:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0039",
+      "value": 53.04,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:39:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0039",
+      "value": 26.15,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:39:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0040",
+      "value": 53.2,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:40:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0040",
+      "value": 26.23,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:40:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0041",
+      "value": 53.34,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:41:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0041",
+      "value": 26.3,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:41:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0042",
+      "value": 53.46,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:42:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0042",
+      "value": 26.38,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:42:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0043",
+      "value": 53.56,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:43:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0043",
+      "value": 26.45,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:43:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0044",
+      "value": 53.63,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:44:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0044",
+      "value": 26.52,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:44:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0045",
+      "value": 53.68,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:45:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0045",
+      "value": 26.58,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:45:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0046",
+      "value": 53.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:46:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0046",
+      "value": 26.64,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:46:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0047",
+      "value": 53.69,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:47:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0047",
+      "value": 26.7,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:47:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0048",
+      "value": 53.65,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:48:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0048",
+      "value": 26.75,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:48:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0049",
+      "value": 53.58,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:49:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0049",
+      "value": 26.79,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:49:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0050",
+      "value": 53.48,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:50:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0050",
+      "value": 26.82,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:50:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0051",
+      "value": 53.36,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:51:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0051",
+      "value": 26.85,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:51:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0052",
+      "value": 53.22,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:52:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0052",
+      "value": 26.87,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:52:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0053",
+      "value": 53.06,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:53:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0053",
+      "value": 26.88,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:53:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0054",
+      "value": 52.89,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:54:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0054",
+      "value": 26.88,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:54:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0055",
+      "value": 52.71,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:55:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0055",
+      "value": 26.87,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:55:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0056",
+      "value": 52.52,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:56:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0056",
+      "value": 26.86,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:56:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0057",
+      "value": 52.33,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:57:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0057",
+      "value": 26.84,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:57:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0058",
+      "value": 52.15,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:58:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0058",
+      "value": 26.81,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:58:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0059",
+      "value": 51.97,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T00:59:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0059",
+      "value": 26.78,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T00:59:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0100",
+      "value": 51.8,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:00:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0100",
+      "value": 26.74,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:00:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0101",
+      "value": 51.65,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:01:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0101",
+      "value": 26.69,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:01:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0102",
+      "value": 51.52,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:02:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0102",
+      "value": 26.64,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:02:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0103",
+      "value": 51.4,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:03:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0103",
+      "value": 26.58,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:03:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0104",
+      "value": 51.31,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:04:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0104",
+      "value": 26.52,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:04:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0105",
+      "value": 51.25,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:05:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0105",
+      "value": 26.46,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:05:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0106",
+      "value": 51.2,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:06:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0106",
+      "value": 26.4,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:06:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0107",
+      "value": 51.18,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:07:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0107",
+      "value": 26.33,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:07:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0108",
+      "value": 51.18,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:08:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0108",
+      "value": 26.27,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:08:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0109",
+      "value": 51.2,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:09:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0109",
+      "value": 26.2,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:09:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0110",
+      "value": 51.23,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:10:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0110",
+      "value": 26.14,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:10:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0111",
+      "value": 51.28,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:11:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0111",
+      "value": 26.08,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:11:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0112",
+      "value": 51.35,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:12:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0112",
+      "value": 26.02,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:12:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0113",
+      "value": 51.41,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:13:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0113",
+      "value": 25.96,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:13:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0114",
+      "value": 51.48,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:14:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0114",
+      "value": 25.91,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:14:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0115",
+      "value": 51.55,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:15:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0115",
+      "value": 25.86,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:15:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0116",
+      "value": 51.61,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:16:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0116",
+      "value": 25.82,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:16:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0117",
+      "value": 51.67,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:17:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0117",
+      "value": 25.79,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:17:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0118",
+      "value": 51.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:18:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0118",
+      "value": 25.76,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:18:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0119",
+      "value": 51.72,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:19:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0119",
+      "value": 25.73,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:19:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0120",
+      "value": 51.72,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:20:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0120",
+      "value": 25.71,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:20:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0121",
+      "value": 51.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:21:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0121",
+      "value": 25.7,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:21:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0122",
+      "value": 51.65,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:22:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0122",
+      "value": 25.7,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:22:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0123",
+      "value": 51.58,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:23:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0123",
+      "value": 25.7,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:23:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0124",
+      "value": 51.47,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:24:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0124",
+      "value": 25.7,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:24:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0125",
+      "value": 51.35,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:25:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0125",
+      "value": 25.71,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:25:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0126",
+      "value": 51.19,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:26:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0126",
+      "value": 25.73,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:26:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0127",
+      "value": 51.02,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:27:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0127",
+      "value": 25.75,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:27:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0128",
+      "value": 50.82,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:28:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0128",
+      "value": 25.77,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:28:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0129",
+      "value": 50.6,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:29:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0129",
+      "value": 25.8,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:29:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0130",
+      "value": 50.37,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:30:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0130",
+      "value": 25.83,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:30:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0131",
+      "value": 50.13,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:31:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0131",
+      "value": 25.86,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:31:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0132",
+      "value": 49.88,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:32:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0132",
+      "value": 25.89,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:32:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0133",
+      "value": 49.63,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:33:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0133",
+      "value": 25.92,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:33:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0134",
+      "value": 49.38,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:34:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0134",
+      "value": 25.95,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:34:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0135",
+      "value": 49.14,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:35:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0135",
+      "value": 25.98,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:35:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0136",
+      "value": 48.91,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:36:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0136",
+      "value": 26.01,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:36:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0137",
+      "value": 48.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:37:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0137",
+      "value": 26.03,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:37:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0138",
+      "value": 48.5,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:38:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0138",
+      "value": 26.05,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:38:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0139",
+      "value": 48.33,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:39:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0139",
+      "value": 26.07,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:39:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0140",
+      "value": 48.18,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:40:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0140",
+      "value": 26.08,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:40:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0141",
+      "value": 48.06,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:41:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0141",
+      "value": 26.08,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:41:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0142",
+      "value": 47.96,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:42:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0142",
+      "value": 26.08,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:42:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0143",
+      "value": 47.89,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:43:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0143",
+      "value": 26.07,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:43:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0144",
+      "value": 47.85,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:44:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0144",
+      "value": 26.06,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:44:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0145",
+      "value": 47.83,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:45:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0145",
+      "value": 26.03,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:45:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0146",
+      "value": 47.84,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:46:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0146",
+      "value": 26.0,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:46:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0147",
+      "value": 47.87,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:47:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0147",
+      "value": 25.96,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:47:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0148",
+      "value": 47.92,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:48:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0148",
+      "value": 25.92,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:48:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0149",
+      "value": 47.98,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:49:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0149",
+      "value": 25.87,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:49:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0150",
+      "value": 48.05,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:50:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0150",
+      "value": 25.81,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:50:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0151",
+      "value": 48.13,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:51:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0151",
+      "value": 25.74,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:51:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0152",
+      "value": 48.21,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:52:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0152",
+      "value": 25.67,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:52:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0153",
+      "value": 48.29,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:53:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0153",
+      "value": 25.59,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:53:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0154",
+      "value": 48.36,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:54:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0154",
+      "value": 25.51,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:54:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0155",
+      "value": 48.42,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:55:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0155",
+      "value": 25.42,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:55:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0156",
+      "value": 48.47,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:56:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0156",
+      "value": 25.33,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:56:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0157",
+      "value": 48.5,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:57:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0157",
+      "value": 25.24,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:57:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0158",
+      "value": 48.51,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:58:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0158",
+      "value": 25.15,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:58:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0159",
+      "value": 48.51,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T01:59:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0159",
+      "value": 25.05,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T01:59:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0200",
+      "value": 48.47,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:00:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0200",
+      "value": 24.96,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:00:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0201",
+      "value": 48.42,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:01:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0201",
+      "value": 24.86,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:01:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0202",
+      "value": 48.34,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:02:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0202",
+      "value": 24.77,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:02:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0203",
+      "value": 48.25,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:03:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0203",
+      "value": 24.68,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:03:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0204",
+      "value": 48.13,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:04:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0204",
+      "value": 24.59,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:04:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0205",
+      "value": 47.99,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:05:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0205",
+      "value": 24.5,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:05:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0206",
+      "value": 47.84,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:06:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0206",
+      "value": 24.42,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:06:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0207",
+      "value": 47.68,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:07:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0207",
+      "value": 24.35,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:07:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0208",
+      "value": 47.51,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:08:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0208",
+      "value": 24.28,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:08:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0209",
+      "value": 47.34,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:09:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0209",
+      "value": 24.22,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:09:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0210",
+      "value": 47.17,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:10:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0210",
+      "value": 24.16,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:10:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0211",
+      "value": 47.0,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:11:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0211",
+      "value": 24.11,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:11:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0212",
+      "value": 46.84,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:12:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0212",
+      "value": 24.07,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:12:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0213",
+      "value": 46.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:13:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0213",
+      "value": 24.03,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:13:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0214",
+      "value": 46.58,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:14:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0214",
+      "value": 24.01,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:14:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0215",
+      "value": 46.48,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:15:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0215",
+      "value": 23.99,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:15:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0216",
+      "value": 46.4,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:16:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0216",
+      "value": 23.97,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:16:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0217",
+      "value": 46.35,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:17:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0217",
+      "value": 23.97,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:17:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0218",
+      "value": 46.32,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:18:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0218",
+      "value": 23.97,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:18:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0219",
+      "value": 46.33,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:19:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0219",
+      "value": 23.97,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:19:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0220",
+      "value": 46.36,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:20:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0220",
+      "value": 23.98,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:20:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0221",
+      "value": 46.43,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:21:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0221",
+      "value": 24.0,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:21:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0222",
+      "value": 46.52,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:22:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0222",
+      "value": 24.02,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:22:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0223",
+      "value": 46.63,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:23:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0223",
+      "value": 24.05,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:23:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0224",
+      "value": 46.77,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:24:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0224",
+      "value": 24.07,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:24:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0225",
+      "value": 46.93,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:25:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0225",
+      "value": 24.1,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:25:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0226",
+      "value": 47.1,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:26:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0226",
+      "value": 24.13,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:26:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0227",
+      "value": 47.29,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:27:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0227",
+      "value": 24.16,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:27:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0228",
+      "value": 47.48,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:28:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0228",
+      "value": 24.2,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:28:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0229",
+      "value": 47.68,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:29:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0229",
+      "value": 24.22,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:29:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0230",
+      "value": 47.87,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:30:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0230",
+      "value": 24.25,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:30:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0231",
+      "value": 48.06,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:31:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0231",
+      "value": 24.28,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:31:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0232",
+      "value": 48.24,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:32:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0232",
+      "value": 24.3,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:32:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0233",
+      "value": 48.41,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:33:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0233",
+      "value": 24.31,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:33:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0234",
+      "value": 48.56,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:34:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0234",
+      "value": 24.33,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:34:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0235",
+      "value": 48.69,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:35:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0235",
+      "value": 24.33,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:35:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0236",
+      "value": 48.8,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:36:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0236",
+      "value": 24.34,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:36:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0237",
+      "value": 48.89,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:37:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0237",
+      "value": 24.33,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:37:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0238",
+      "value": 48.95,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:38:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0238",
+      "value": 24.32,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:38:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0239",
+      "value": 48.99,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:39:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0239",
+      "value": 24.31,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:39:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0240",
+      "value": 49.0,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:40:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0240",
+      "value": 24.28,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:40:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0241",
+      "value": 49.0,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:41:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0241",
+      "value": 24.26,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:41:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0242",
+      "value": 48.98,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:42:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0242",
+      "value": 24.22,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:42:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0243",
+      "value": 48.94,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:43:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0243",
+      "value": 24.18,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:43:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0244",
+      "value": 48.89,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:44:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0244",
+      "value": 24.14,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:44:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0245",
+      "value": 48.83,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:45:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0245",
+      "value": 24.09,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:45:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0246",
+      "value": 48.76,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:46:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0246",
+      "value": 24.03,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:46:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0247",
+      "value": 48.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:47:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0247",
+      "value": 23.97,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:47:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0248",
+      "value": 48.63,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:48:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0248",
+      "value": 23.91,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:48:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0249",
+      "value": 48.58,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:49:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0249",
+      "value": 23.85,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:49:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0250",
+      "value": 48.54,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:50:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0250",
+      "value": 23.78,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:50:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0251",
+      "value": 48.51,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:51:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0251",
+      "value": 23.71,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:51:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0252",
+      "value": 48.5,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:52:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0252",
+      "value": 23.65,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:52:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0253",
+      "value": 48.52,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:53:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0253",
+      "value": 23.58,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:53:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0254",
+      "value": 48.56,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:54:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0254",
+      "value": 23.51,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:54:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0255",
+      "value": 48.62,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:55:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0255",
+      "value": 23.45,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:55:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0256",
+      "value": 48.71,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:56:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0256",
+      "value": 23.39,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:56:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0257",
+      "value": 48.83,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:57:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0257",
+      "value": 23.34,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:57:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0258",
+      "value": 48.97,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:58:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0258",
+      "value": 23.29,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:58:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0259",
+      "value": 49.14,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T02:59:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0259",
+      "value": 23.24,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T02:59:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0300",
+      "value": 49.32,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:00:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0300",
+      "value": 23.2,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:00:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0301",
+      "value": 49.53,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:01:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0301",
+      "value": 23.17,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:01:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0302",
+      "value": 49.76,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:02:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0302",
+      "value": 23.14,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:02:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0303",
+      "value": 49.99,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:03:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0303",
+      "value": 23.13,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:03:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0304",
+      "value": 50.24,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:04:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0304",
+      "value": 23.12,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:04:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0305",
+      "value": 50.49,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:05:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0305",
+      "value": 23.11,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:05:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0306",
+      "value": 50.73,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:06:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0306",
+      "value": 23.12,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:06:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0307",
+      "value": 50.98,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:07:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0307",
+      "value": 23.13,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:07:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0308",
+      "value": 51.21,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:08:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0308",
+      "value": 23.15,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:08:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0309",
+      "value": 51.43,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:09:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0309",
+      "value": 23.18,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:09:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0310",
+      "value": 51.63,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:10:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0310",
+      "value": 23.22,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:10:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0311",
+      "value": 51.82,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:11:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0311",
+      "value": 23.26,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:11:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0312",
+      "value": 51.97,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:12:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0312",
+      "value": 23.31,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:12:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0313",
+      "value": 52.11,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:13:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0313",
+      "value": 23.37,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:13:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0314",
+      "value": 52.21,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:14:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0314",
+      "value": 23.43,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:14:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0315",
+      "value": 52.29,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:15:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0315",
+      "value": 23.49,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:15:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0316",
+      "value": 52.34,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:16:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0316",
+      "value": 23.56,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:16:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0317",
+      "value": 52.37,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:17:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0317",
+      "value": 23.63,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:17:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0318",
+      "value": 52.37,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:18:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0318",
+      "value": 23.71,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:18:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0319",
+      "value": 52.35,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:19:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0319",
+      "value": 23.78,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:19:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0320",
+      "value": 52.3,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:20:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0320",
+      "value": 23.86,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:20:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0321",
+      "value": 52.24,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:21:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0321",
+      "value": 23.94,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:21:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0322",
+      "value": 52.17,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:22:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0322",
+      "value": 24.01,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:22:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0323",
+      "value": 52.09,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:23:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0323",
+      "value": 24.09,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:23:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0324",
+      "value": 52.0,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:24:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0324",
+      "value": 24.16,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:24:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0325",
+      "value": 51.92,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:25:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0325",
+      "value": 24.23,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:25:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0326",
+      "value": 51.84,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:26:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0326",
+      "value": 24.29,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:26:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0327",
+      "value": 51.76,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:27:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0327",
+      "value": 24.35,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:27:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0328",
+      "value": 51.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:28:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0328",
+      "value": 24.4,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:28:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0329",
+      "value": 51.65,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:29:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0329",
+      "value": 24.45,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:29:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0330",
+      "value": 51.62,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:30:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0330",
+      "value": 24.5,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:30:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0331",
+      "value": 51.61,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:31:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0331",
+      "value": 24.53,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:31:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0332",
+      "value": 51.62,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:32:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0332",
+      "value": 24.56,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:32:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0333",
+      "value": 51.66,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:33:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0333",
+      "value": 24.59,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:33:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0334",
+      "value": 51.72,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:34:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0334",
+      "value": 24.6,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:34:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0335",
+      "value": 51.8,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:35:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0335",
+      "value": 24.62,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:35:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0336",
+      "value": 51.9,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:36:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0336",
+      "value": 24.62,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:36:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0337",
+      "value": 52.02,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:37:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0337",
+      "value": 24.62,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:37:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0338",
+      "value": 52.15,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:38:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0338",
+      "value": 24.62,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:38:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0339",
+      "value": 52.3,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:39:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0339",
+      "value": 24.61,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:39:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0340",
+      "value": 52.46,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:40:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0340",
+      "value": 24.59,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:40:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0341",
+      "value": 52.62,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:41:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0341",
+      "value": 24.57,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:41:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0342",
+      "value": 52.78,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:42:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0342",
+      "value": 24.55,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:42:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0343",
+      "value": 52.95,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:43:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0343",
+      "value": 24.53,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:43:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0344",
+      "value": 53.1,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:44:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0344",
+      "value": 24.5,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:44:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0345",
+      "value": 53.24,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:45:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0345",
+      "value": 24.48,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:45:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0346",
+      "value": 53.36,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:46:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0346",
+      "value": 24.45,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:46:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0347",
+      "value": 53.47,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:47:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0347",
+      "value": 24.43,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:47:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0348",
+      "value": 53.55,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:48:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0348",
+      "value": 24.41,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:48:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0349",
+      "value": 53.61,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:49:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0349",
+      "value": 24.39,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:49:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0350",
+      "value": 53.64,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:50:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0350",
+      "value": 24.37,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:50:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0351",
+      "value": 53.64,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:51:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0351",
+      "value": 24.36,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:51:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0352",
+      "value": 53.61,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:52:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0352",
+      "value": 24.35,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:52:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0353",
+      "value": 53.55,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:53:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0353",
+      "value": 24.35,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:53:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0354",
+      "value": 53.47,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:54:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0354",
+      "value": 24.35,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:54:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0355",
+      "value": 53.35,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:55:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0355",
+      "value": 24.36,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:55:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0356",
+      "value": 53.22,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:56:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0356",
+      "value": 24.38,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:56:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0357",
+      "value": 53.06,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:57:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0357",
+      "value": 24.4,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:57:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0358",
+      "value": 52.89,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:58:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0358",
+      "value": 24.43,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:58:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0359",
+      "value": 52.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T03:59:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0359",
+      "value": 24.46,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T03:59:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0400",
+      "value": 52.5,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:00:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0400",
+      "value": 24.51,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:00:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0401",
+      "value": 52.3,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:01:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0401",
+      "value": 24.56,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:01:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0402",
+      "value": 52.09,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:02:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0402",
+      "value": 24.62,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:02:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0403",
+      "value": 51.89,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:03:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0403",
+      "value": 24.68,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:03:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0404",
+      "value": 51.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:04:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0404",
+      "value": 24.75,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:04:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0405",
+      "value": 51.52,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:05:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0405",
+      "value": 24.82,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:05:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0406",
+      "value": 51.36,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:06:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0406",
+      "value": 24.9,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:06:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0407",
+      "value": 51.21,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:07:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0407",
+      "value": 24.99,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:07:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0408",
+      "value": 51.08,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:08:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0408",
+      "value": 25.08,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:08:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0409",
+      "value": 50.98,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:09:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0409",
+      "value": 25.17,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:09:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0410",
+      "value": 50.9,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:10:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0410",
+      "value": 25.26,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:10:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0411",
+      "value": 50.84,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:11:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0411",
+      "value": 25.35,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:11:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0412",
+      "value": 50.81,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:12:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0412",
+      "value": 25.45,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:12:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0413",
+      "value": 50.8,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:13:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0413",
+      "value": 25.54,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:13:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0414",
+      "value": 50.81,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:14:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0414",
+      "value": 25.63,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:14:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0415",
+      "value": 50.83,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:15:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0415",
+      "value": 25.72,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:15:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0416",
+      "value": 50.88,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:16:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0416",
+      "value": 25.81,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:16:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0417",
+      "value": 50.93,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:17:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0417",
+      "value": 25.89,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:17:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0418",
+      "value": 50.99,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:18:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0418",
+      "value": 25.97,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:18:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0419",
+      "value": 51.05,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:19:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0419",
+      "value": 26.05,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:19:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0420",
+      "value": 51.11,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:20:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0420",
+      "value": 26.11,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:20:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0421",
+      "value": 51.17,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:21:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0421",
+      "value": 26.18,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:21:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0422",
+      "value": 51.21,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:22:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0422",
+      "value": 26.23,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:22:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0423",
+      "value": 51.24,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:23:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0423",
+      "value": 26.28,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:23:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0424",
+      "value": 51.26,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:24:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0424",
+      "value": 26.32,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:24:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0425",
+      "value": 51.25,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:25:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0425",
+      "value": 26.35,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:25:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0426",
+      "value": 51.22,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:26:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0426",
+      "value": 26.38,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:26:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0427",
+      "value": 51.17,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:27:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0427",
+      "value": 26.4,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:27:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0428",
+      "value": 51.09,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:28:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0428",
+      "value": 26.41,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:28:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0429",
+      "value": 50.99,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:29:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0429",
+      "value": 26.41,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:29:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0430",
+      "value": 50.86,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:30:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0430",
+      "value": 26.4,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:30:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0431",
+      "value": 50.71,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:31:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0431",
+      "value": 26.39,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:31:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0432",
+      "value": 50.53,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:32:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0432",
+      "value": 26.38,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:32:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0433",
+      "value": 50.33,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:33:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0433",
+      "value": 26.36,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:33:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0434",
+      "value": 50.11,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:34:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0434",
+      "value": 26.33,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:34:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0435",
+      "value": 49.88,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:35:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0435",
+      "value": 26.3,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:35:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0436",
+      "value": 49.64,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:36:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0436",
+      "value": 26.26,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:36:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0437",
+      "value": 49.4,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:37:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0437",
+      "value": 26.23,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:37:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0438",
+      "value": 49.15,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:38:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0438",
+      "value": 26.19,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:38:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0439",
+      "value": 48.91,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:39:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0439",
+      "value": 26.15,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:39:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0440",
+      "value": 48.67,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:40:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0440",
+      "value": 26.11,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:40:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0441",
+      "value": 48.45,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:41:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0441",
+      "value": 26.07,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:41:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0442",
+      "value": 48.24,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:42:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0442",
+      "value": 26.03,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:42:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0443",
+      "value": 48.05,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:43:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0443",
+      "value": 26.0,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:43:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0444",
+      "value": 47.88,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:44:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0444",
+      "value": 25.96,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:44:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0445",
+      "value": 47.74,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:45:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0445",
+      "value": 25.93,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:45:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0446",
+      "value": 47.62,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:46:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0446",
+      "value": 25.91,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:46:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0447",
+      "value": 47.54,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:47:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0447",
+      "value": 25.89,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:47:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0448",
+      "value": 47.47,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:48:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0448",
+      "value": 25.87,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:48:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0449",
+      "value": 47.44,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:49:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0449",
+      "value": 25.86,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:49:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0450",
+      "value": 47.43,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:50:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0450",
+      "value": 25.86,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:50:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0451",
+      "value": 47.45,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:51:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0451",
+      "value": 25.86,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:51:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0452",
+      "value": 47.49,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:52:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0452",
+      "value": 25.87,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:52:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0453",
+      "value": 47.55,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:53:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0453",
+      "value": 25.88,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:53:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0454",
+      "value": 47.62,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:54:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0454",
+      "value": 25.9,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:54:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0455",
+      "value": 47.7,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:55:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0455",
+      "value": 25.93,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:55:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0456",
+      "value": 47.79,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:56:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0456",
+      "value": 25.96,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:56:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0457",
+      "value": 47.89,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:57:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0457",
+      "value": 26.0,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:57:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0458",
+      "value": 47.98,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:58:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0458",
+      "value": 26.04,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:58:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0459",
+      "value": 48.06,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T04:59:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0459",
+      "value": 26.08,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T04:59:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0500",
+      "value": 48.14,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:00:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0500",
+      "value": 26.13,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:00:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0501",
+      "value": 48.2,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:01:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0501",
+      "value": 26.18,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:01:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0502",
+      "value": 48.25,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:02:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0502",
+      "value": 26.24,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:02:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0503",
+      "value": 48.28,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:03:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0503",
+      "value": 26.29,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:03:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0504",
+      "value": 48.28,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:04:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0504",
+      "value": 26.35,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:04:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0505",
+      "value": 48.27,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:05:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0505",
+      "value": 26.4,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:05:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0506",
+      "value": 48.23,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:06:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0506",
+      "value": 26.46,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:06:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0507",
+      "value": 48.17,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:07:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0507",
+      "value": 26.51,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:07:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0508",
+      "value": 48.09,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:08:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0508",
+      "value": 26.56,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:08:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0509",
+      "value": 47.98,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:09:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0509",
+      "value": 26.6,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:09:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0510",
+      "value": 47.87,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:10:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0510",
+      "value": 26.64,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:10:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0511",
+      "value": 47.73,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:11:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0511",
+      "value": 26.68,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:11:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0512",
+      "value": 47.59,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:12:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0512",
+      "value": 26.71,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:12:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0513",
+      "value": 47.43,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:13:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0513",
+      "value": 26.73,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:13:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0514",
+      "value": 47.28,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:14:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0514",
+      "value": 26.75,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:14:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0515",
+      "value": 47.12,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:15:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0515",
+      "value": 26.76,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:15:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0516",
+      "value": 46.97,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:16:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0516",
+      "value": 26.76,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:16:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0517",
+      "value": 46.84,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:17:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0517",
+      "value": 26.76,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:17:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0518",
+      "value": 46.71,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:18:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0518",
+      "value": 26.75,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:18:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0519",
+      "value": 46.6,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:19:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0519",
+      "value": 26.73,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:19:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0520",
+      "value": 46.52,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:20:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0520",
+      "value": 26.7,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:20:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0521",
+      "value": 46.46,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:21:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0521",
+      "value": 26.66,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:21:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0522",
+      "value": 46.42,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:22:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0522",
+      "value": 26.62,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:22:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0523",
+      "value": 46.42,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:23:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0523",
+      "value": 26.57,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:23:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0524",
+      "value": 46.44,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:24:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0524",
+      "value": 26.51,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:24:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0525",
+      "value": 46.49,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:25:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0525",
+      "value": 26.45,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:25:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0526",
+      "value": 46.57,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:26:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0526",
+      "value": 26.38,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:26:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0527",
+      "value": 46.68,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:27:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0527",
+      "value": 26.31,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:27:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0528",
+      "value": 46.81,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:28:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0528",
+      "value": 26.23,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:28:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0529",
+      "value": 46.96,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:29:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0529",
+      "value": 26.15,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:29:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0530",
+      "value": 47.14,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:30:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0530",
+      "value": 26.06,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:30:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0531",
+      "value": 47.33,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:31:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0531",
+      "value": 25.98,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:31:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0532",
+      "value": 47.53,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:32:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0532",
+      "value": 25.89,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:32:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0533",
+      "value": 47.73,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:33:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0533",
+      "value": 25.81,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:33:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0534",
+      "value": 47.95,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:34:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0534",
+      "value": 25.72,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:34:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0535",
+      "value": 48.15,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:35:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0535",
+      "value": 25.64,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:35:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0536",
+      "value": 48.36,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:36:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0536",
+      "value": 25.56,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:36:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0537",
+      "value": 48.55,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:37:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0537",
+      "value": 25.48,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:37:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0538",
+      "value": 48.73,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:38:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0538",
+      "value": 25.4,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:38:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0539",
+      "value": 48.89,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:39:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0539",
+      "value": 25.33,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:39:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0540",
+      "value": 49.04,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:40:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0540",
+      "value": 25.27,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:40:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0541",
+      "value": 49.16,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:41:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0541",
+      "value": 25.21,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:41:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0542",
+      "value": 49.25,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:42:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0542",
+      "value": 25.16,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:42:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0543",
+      "value": 49.33,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:43:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0543",
+      "value": 25.11,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:43:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0544",
+      "value": 49.38,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:44:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0544",
+      "value": 25.07,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:44:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0545",
+      "value": 49.4,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:45:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0545",
+      "value": 25.04,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:45:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0546",
+      "value": 49.41,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:46:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0546",
+      "value": 25.01,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:46:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0547",
+      "value": 49.4,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:47:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0547",
+      "value": 24.99,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:47:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0548",
+      "value": 49.37,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:48:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0548",
+      "value": 24.98,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:48:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0549",
+      "value": 49.32,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:49:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0549",
+      "value": 24.97,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:49:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0550",
+      "value": 49.27,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:50:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0550",
+      "value": 24.96,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:50:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0551",
+      "value": 49.21,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:51:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0551",
+      "value": 24.97,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:51:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0552",
+      "value": 49.15,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:52:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0552",
+      "value": 24.98,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:52:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0553",
+      "value": 49.1,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:53:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0553",
+      "value": 24.99,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:53:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0554",
+      "value": 49.05,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:54:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0554",
+      "value": 25.0,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:54:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0555",
+      "value": 49.01,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:55:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0555",
+      "value": 25.02,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:55:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0556",
+      "value": 48.99,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:56:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0556",
+      "value": 25.04,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:56:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0557",
+      "value": 48.98,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:57:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0557",
+      "value": 25.07,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:57:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0558",
+      "value": 49.0,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:58:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0558",
+      "value": 25.09,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:58:00+08:00"
+    },
+    {
+      "title": "wl-20261022-0559",
+      "value": 49.04,
+      "category": "Water_Level",
+      "timestamp": "2026-10-22T05:59:00+08:00"
+    },
+    {
+      "title": "temp-20261022-0559",
+      "value": 25.11,
+      "category": "Temperature",
+      "timestamp": "2026-10-22T05:59:00+08:00"
+    }
+  ]
+}

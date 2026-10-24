@@ -1,0 +1,102 @@
+services:
+  mariadb:
+    image: mariadb:11.7
+    environment:
+      MARIADB_DATABASE: ${MARIADB_DATABASE:?Please set MARIADB_DATABASE in .env}
+      MARIADB_USER: ${MARIADB_USER:?Please set MARIADB_USER in .env}
+      MARIADB_PASSWORD: ${MARIADB_PASSWORD:?Please set MARIADB_PASSWORD in .env}
+      MARIADB_ROOT_PASSWORD: ${MARIADB_ROOT_PASSWORD:?Please set MARIADB_ROOT_PASSWORD in .env}
+    ports:
+      - "127.0.0.1:3307:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+
+    networks:
+      - monitoring_net
+    
+    restart: unless-stopped
+    command: ["--default-time-zone=+00:00"]
+
+    healthcheck:
+      test: ["CMD", "healthcheck.sh", "--connect", "--innodb_initialized"]
+      start_period: 30s
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    restart: unless-stopped
+    init : true
+    stop_grace_period: 30s
+
+    environment:
+      DATABASE_URL: ${DATABASE_URL_DOCKER:?Set DATABASE_URL_DOCKER in .env}
+      JWT_SECRET_KEY: ${JWT_SECRET_KEY:?Set JWT_SECRET_KEY in .env}
+      JWT_ALGORITHM: ${JWT_ALGORITHM:-HS256}
+      ACCESS_TOKEN_EXPIRE_MINUTES: ${ACCESS_TOKEN_EXPIRE_MINUTES:-30}
+      SYSTEM_BOT_PASSWORD: ${SYSTEM_BOT_PASSWORD:?Set SYSTEM_BOT_PASSWORD in .env}
+      REALTIME_AUTO_START: ${REALTIME_AUTO_START:-true}
+
+    ports:
+      - "127.0.0.1:8000:8000"
+
+    networks:
+      - monitoring_net
+
+    depends_on:
+      mariadb:
+        condition: service_healthy
+  
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health/db', timeout=3).read()"
+      start_period: 30s
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  frontend:
+    build:
+      context: .
+      dockerfile: frontend/Dockerfile
+
+    restart: unless-stopped
+    init: true
+
+    environment:
+      API_BASE_URL: http://backend:8000
+      WS_BASE_URL: ws://backend:8000
+
+    ports:
+      - "127.0.0.1:8501:8501"
+
+    networks:
+      - monitoring_net
+
+    depends_on:
+      backend:
+        condition: service_healthy
+
+    healthcheck:
+      test:
+        - CMD
+        - python
+        - -c
+        - "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8501/_stcore/health', timeout=3).read()"
+      start_period: 30s
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  mariadb_data:
+
+networks:
+  monitoring_net:
+    driver: bridge
