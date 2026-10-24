@@ -559,8 +559,6 @@ Pop-Location
 
 ## 13. 已知限制與後續工作
 
-本版本適合本機技術測驗展示，不宣稱已完成生產環境強化或完整原題驗收。
-
 1. **原始規格差異**：資料生成預設 5 秒而非 1 秒；目前不提供柱狀圖；後端異常旗標尚未呈現在 Realtime 圖表／卡片。
 2. **Admin 待補**：系統日誌查詢、DB 監控介面、Admin 專用即時歷史查詢入口；現有通用歷史查詢可供管理員使用。
 3. **前端狀態**：Auto reconnect 可能在主動 Stop 後重新連線，暫時需先取消勾選再 Stop；連線狀態主要依背景 thread 判斷。25 秒無資料時的 rerun 不保證修復連線，接收 Queue 尚無容量限制。
@@ -569,5 +567,3 @@ Pop-Location
 6. **分析語意**：不指定分類時，summary／trend 會混合各類別數值；不同量綱請分別查詢。全體 summary 提供筆數，數值加總目前在分類聚合提供。
 7. **可靠性與擴展**：尚無跨 process 廣播或持久化訊息佇列；異常退出可能遺失未落庫的記憶體 buffer。批次失敗重試、慢連線處理及壓力測試仍需加強。
 8. **部署與交付**：目前為 localhost HTTP 部署，未包含 TLS／反向代理、CI/CD 與全新主機一鍵驗收。部分依賴與基礎 Image tag 可隨時間更新，嚴格重現時需進一步鎖版／digest。
-
-GitHub 提交應包含本 README、[設定範本](./.env.example)、[Compose](./compose.yaml)、兩份 Dockerfile、原始碼、migration、測試及 [CSV／JSON 測資](./sample_data/)。**不應提交真實 `.env`、虛擬環境或含密碼／JWT 的日誌。** 資料庫 Volume 與本機既有帳號不會隨 GitHub 原始碼一起交付。
